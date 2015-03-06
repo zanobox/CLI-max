@@ -1,2 +1,2 @@
 # CLI-max
-Script center for a personnal distro
+Script center for a personnal cli-oriented distro
